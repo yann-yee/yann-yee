@@ -21,17 +21,18 @@
 ---
 
 ## 📌 Featured Repositories
-- **[my‑wezterm](https://github.com/yann-yee/my-wezterm)** – 强大的 wezterm 终端配置
-- **[mcu‑bridge](https://github.com/yann-yee/mcu-bridge)** – 嵌入式 C 工程，桥接不同硬件模块
-- **[icon‑creator](https://github.com/yann-yee/icon-creator)** – Rust 图标生成器工具
+
+<!-- FEATURED_REPOS_START -->
+正在由 GitHub Actions 自动更新：按 Star 数与近期提交排序。
+<!-- FEATURED_REPOS_END -->
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yann-yee&show_icons=true&theme=blue-green" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yann-yee&layout=compact&theme=blue-green" alt="Top Languages" />
+  <img src="assets/github-stats.svg" alt="GitHub Stats" width="49%">
+  <img src="assets/top-langs.svg" alt="Top Languages" width="49%">
 </p>
 
 ---

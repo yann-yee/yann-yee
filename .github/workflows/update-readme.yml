@@ -1,0 +1,42 @@
+name: Update profile README
+
+on:
+  schedule:
+    # 每天北京时间 08:10 自动更新
+    - cron: "10 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate README sections and SVG stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: yann-yee
+          MAX_FEATURED_REPOS: "4"
+        run: python scripts/update_profile.py
+
+      - name: Commit changes
+        run: |
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/github-stats.svg assets/top-langs.svg
+          git commit -m "docs: update profile stats and featured repos"
+          git push
