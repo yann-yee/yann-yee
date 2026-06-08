@@ -23,9 +23,9 @@
 ## 📌 Featured Repositories
 
 <!-- FEATURED_REPOS_START -->
-- **[mcu-bridge](https://github.com/yann-yee/mcu-bridge)** `C` · ⭐ 0 · 最近提交 `2026-06-06`  
+- **[icon-creator](https://github.com/yann-yee/icon-creator)** `Rust` · ⭐ 0 · 最近提交 `2026-06-07`  
   No description yet.
-- **[icon-creator](https://github.com/yann-yee/icon-creator)** `Rust` · ⭐ 0 · 最近提交 `2026-06-05`  
+- **[mcu-bridge](https://github.com/yann-yee/mcu-bridge)** `C` · ⭐ 0 · 最近提交 `2026-06-06`  
   No description yet.
 - **[my-wezterm](https://github.com/yann-yee/my-wezterm)** `PowerShell` · ⭐ 0 · 最近提交 `2026-05-14`  
   我的wezterm终端配置
