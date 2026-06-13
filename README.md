@@ -27,6 +27,8 @@
   No description yet.
 - **[mcu-bridge](https://github.com/yann-yee/mcu-bridge)** `C` · ⭐ 1 · 最近提交 `2026-06-06`  
   No description yet.
+- **[yolo](https://github.com/yann-yee/yolo)** `Python` · ⭐ 0 · 最近提交 `2026-06-12`  
+  copy ultralytics and add my code
 - **[my-wezterm](https://github.com/yann-yee/my-wezterm)** `PowerShell` · ⭐ 0 · 最近提交 `2026-05-14`  
   我的wezterm终端配置
 <!-- FEATURED_REPOS_END -->
