@@ -23,9 +23,9 @@
 ## 📌 Featured Repositories
 
 <!-- FEATURED_REPOS_START -->
-- **[icon-creator](https://github.com/yann-yee/icon-creator)** `Rust` · ⭐ 1 · 最近提交 `2026-06-07`  
+- **[mcu-bridge](https://github.com/yann-yee/mcu-bridge)** `C` · ⭐ 1 · 最近提交 `2026-06-25`  
   No description yet.
-- **[mcu-bridge](https://github.com/yann-yee/mcu-bridge)** `C` · ⭐ 1 · 最近提交 `2026-06-06`  
+- **[icon-creator](https://github.com/yann-yee/icon-creator)** `Rust` · ⭐ 1 · 最近提交 `2026-06-07`  
   No description yet.
 - **[yolo](https://github.com/yann-yee/yolo)** `Python` · ⭐ 0 · 最近提交 `2026-06-12`  
   copy ultralytics and add my code
