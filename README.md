@@ -27,7 +27,7 @@
   No description yet.
 - **[icon-creator](https://github.com/yann-yee/icon-creator)** `Rust` · ⭐ 1 · 最近提交 `2026-06-07`  
   No description yet.
-- **[yolo](https://github.com/yann-yee/yolo)** `Python` · ⭐ 0 · 最近提交 `2026-06-12`  
+- **[yolo](https://github.com/yann-yee/yolo)** `C` · ⭐ 0 · 最近提交 `2026-06-28`  
   copy ultralytics and add my code
 - **[my-wezterm](https://github.com/yann-yee/my-wezterm)** `PowerShell` · ⭐ 0 · 最近提交 `2026-05-14`  
   我的wezterm终端配置
