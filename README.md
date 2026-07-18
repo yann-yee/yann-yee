@@ -29,8 +29,6 @@
   No description yet.
 - **[yolo](https://github.com/yann-yee/yolo)** `C` · ⭐ 0 · 最近提交 `2026-06-28`  
   copy ultralytics and add my code
-- **[my-wezterm](https://github.com/yann-yee/my-wezterm)** `PowerShell` · ⭐ 0 · 最近提交 `2026-05-14`  
-  我的wezterm终端配置
 <!-- FEATURED_REPOS_END -->
 
 ---
