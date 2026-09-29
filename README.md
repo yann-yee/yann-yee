@@ -27,8 +27,6 @@
   No description yet.
 - **[mcu-bridge](https://github.com/yann-yee/mcu-bridge)** `C` · ⭐ 1 · 最近提交 `2026-06-27`  
   No description yet.
-- **[yolo](https://github.com/yann-yee/yolo)** `C` · ⭐ 0 · 最近提交 `2026-06-28`  
-  copy ultralytics and add my code
 <!-- FEATURED_REPOS_END -->
 
 ---
