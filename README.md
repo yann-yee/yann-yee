@@ -23,9 +23,9 @@
 ## 📌 Featured Repositories
 
 <!-- FEATURED_REPOS_START -->
-- **[icon-creator](https://github.com/yann-yee/icon-creator)** `Rust` · ⭐ 1 · 最近提交 `2026-09-14`  
+- **[mcu-bridge](https://github.com/yann-yee/mcu-bridge)** `C` · ⭐ 1 · 最近提交 `2026-10-08`  
   No description yet.
-- **[mcu-bridge](https://github.com/yann-yee/mcu-bridge)** `C` · ⭐ 1 · 最近提交 `2026-06-27`  
+- **[icon-creator](https://github.com/yann-yee/icon-creator)** `Rust` · ⭐ 1 · 最近提交 `2026-09-14`  
   No description yet.
 <!-- FEATURED_REPOS_END -->
 
